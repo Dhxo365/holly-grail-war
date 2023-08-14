@@ -1,0 +1,14 @@
+/* font-family: 'Bagel Fat One', cursive;
+font-family: 'Julius Sans One', sans-serif;
+ */
+
+/* ======== navbar transparent ========= */
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+  }
+
+  .navbar{
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
